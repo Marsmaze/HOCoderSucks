@@ -666,7 +666,7 @@ namespace HOCoderSucks
                         //将当前行字符串以英文半角逗号分隔开，并存入数组strLineArr
                         string[] strLineArr = strLineData.Split(',');
 
-                        string Account = strLineArr[1];//MAC地址就是账号
+                        string Account = strLineArr[1];//MAC地址就是账号 
                         //保证有3个帐号信息不能少(姓名，MAC地址，公司),并且帐号不存在。
                         if (strLineArr.Length == 3 && AD_OP.IsAccExist(Account, TB_SAMAccount.Text.ToString(), TB_Password.Text.ToString()) == 0)
                         {
@@ -688,6 +688,9 @@ namespace HOCoderSucks
                             Application.DoEvents();//在进度条累加的过程中，防止窗体假死。暂时不知道为什么，网上查到的。
                             
                         }
+                        //保证有3个帐号信息不能少(姓名，MAC地址，公司),并且帐号已经存在。
+                        //保证有3个帐号信息不能少(姓名，MAC地址，公司),并且帐号已经存在。
+                        //保证有3个帐号信息不能少(姓名，MAC地址，公司),并且帐号已经存在。
                         //保证有3个帐号信息不能少(姓名，MAC地址，公司),并且帐号已经存在。
                         else if (strLineArr.Length == 3 && AD_OP.IsAccExist(Account, TB_SAMAccount.Text.ToString(), TB_Password.Text.ToString()) == 1)
                         {
