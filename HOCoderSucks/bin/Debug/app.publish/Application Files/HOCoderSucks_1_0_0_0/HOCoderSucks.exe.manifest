@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="HOCoderSucks.exe" version="1.0.0.0" publicKeyToken="92ac8953608a5966" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HOCoderSucks" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="HOCoderSucks.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChnCharInfo.dll" size="390224">
+      <assemblyIdentity name="ChnCharInfo" version="1.0.0.0" publicKeyToken="18F031BD02E5E291" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VsYdFPo54WcgUSXz13wGQM0umRv838EFCwZHwtSw190=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CN\ChnCharInfo.resources.dll" size="5120">
+      <assemblyIdentity name="ChnCharInfo.resources" version="1.0.0.0" publicKeyToken="18F031BD02E5E291" language="zh-CN" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hLzyZGHimMOwiyco+gv69wPR4Fwhr9lEIKrbtNH1QNU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HOCoderSucks.exe" size="61952">
+      <assemblyIdentity name="HOCoderSucks" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>16WBkx+0QBKNw+1W8aO+otioSGyL1paXnQcgqFms4sQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HOCoderSucks.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JUNEYAOAIR\maze" issuerKeyHash="bd1530d0fb45cce7651e0e8147942199e3c7f64c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8XqaS9KpxRIiUMIU9AtJWWu7UGrmhgzyOf3xIDTwF6s=</DigestValue></Reference></SignedInfo><SignatureValue>eSVA3lIHy2h0YA5+Zi0J9in7BqBrNaDQPMp1FHae2n8kx0UPTWevZm+5I3zNHzRNXSozQB0nLvE6IbJUpJwqapO30xxeD8dXA7RSMm8sxoWZHh3yCGZ5XYtwBKS/+0/jOZ2qfHU4nbvqZeidj8HWW2jxn4xMIUqGYquCw3B7zD4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sWhtjwYv27wNvqlOL8YJyPh5ytqR3pcrJVaBsNq8h005D1cedvUNcASuxIBOLuMg68IDCan0IRHeaPdZIF3+HAeAYLYyvQiTzNAS7sysZ3XsX8ouY5jbi+qb3VzD5byAAK1QlPNfT+AjS1pZ0qN1nukgc+d2Wl74RmLAVpiH/jU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ab17f03420f1fd39f20c86e66a50bb6b59490bf414c2502212c5a9d24b9a7af1" Description="" Url=""><as:assemblyIdentity name="HOCoderSucks.exe" version="1.0.0.0" publicKeyToken="92ac8953608a5966" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JUNEYAOAIR\maze</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GzJPFLhNsKOj5y1/AQLIcWVxrZALGkEaF/IPW6/w90M=</DigestValue></Reference></SignedInfo><SignatureValue>Mm9hqP+7jIgAlv6lPi7vYKidLugtWrX2+AZNBPfpAbXue7v5hI9hZ22gRYwKirkdvgvFkcqL9zLfK3/eOZhgfFMUDzZNA1uI9KGrV8BMPBeecW+r7nsOG0f6MuJxS6xyVzdd0RAnxbQ2XgZOH4esHLe2F1W1Msf6rLmjLQJGPSE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sWhtjwYv27wNvqlOL8YJyPh5ytqR3pcrJVaBsNq8h005D1cedvUNcASuxIBOLuMg68IDCan0IRHeaPdZIF3+HAeAYLYyvQiTzNAS7sysZ3XsX8ouY5jbi+qb3VzD5byAAK1QlPNfT+AjS1pZ0qN1nukgc+d2Wl74RmLAVpiH/jU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQEbYE+OKJEZ5PkTQX9+/kkzANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ASgBVAE4ARQBZAEEATwBBAEkAUgBcAG0AYQB6AGUwHhcNMTUxMDA2MDUyMTAwWhcNMTYxMDA1MTEyMTAwWjApMScwJQYDVQQDHh4ASgBVAE4ARQBZAEEATwBBAEkAUgBcAG0AYQB6AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALFobY8GL9u8Db6pTi/GCcj4ecrakd6XKyVWgbDavIdNOQ9XHnb1DXAErsSATi7jIOvCAwmp9CER3mj3WSBd/hwHgGC2Mr0Ik8zQEu7MrGd17F/KLmOY24vqm91cw+W8gACtUJTzX0/gI0taWdKjdZ7pIHPndlpe+EZiwFaYh/41AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAkJVzckxHCrHN7MCzsNxzNu7yIoyxIZJkxZsCyUHxAA+MEuF5LU8sgiiTaZIkWpwLH7HAwmfH9zHAa/NEqzBRT/ETLjJCBS4VdcUZDNhC623nhzCh2R1WuLHUXa1e/VQ7M2EkY+ZzupaLE8V8nr1AnhrU3EyLHAEfsFO8AUEpDC0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

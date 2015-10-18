@@ -1,0 +1,31 @@
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.exe.config
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.HCS_MainForm.resources
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.Properties.Resources.resources
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.csproj.GenerateResource.Cache
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.exe
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.pdb
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.exe
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.pdb
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\ChnCharInfo.dll
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\ChnCharInfo.xml
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.exe.manifest
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.application
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.exe.manifest
+\\vmware-host\shared folders\文稿\visual studio 2012\Projects\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.application
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.exe.config
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.exe
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.pdb
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.exe.manifest
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.application
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.exe
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\HOCoderSucks.pdb
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\ChnCharInfo.xml
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.HCS_MainForm.resources
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.Properties.Resources.resources
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.exe.manifest
+\\vmware-host\Shared Folders\文稿\GoogleCloud\C#_Project\HOCoderSucks\HOCoderSucks\obj\Debug\HOCoderSucks.application
