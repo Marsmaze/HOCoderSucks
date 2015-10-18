@@ -22,7 +22,7 @@ namespace HOCoderSucks
             }
             catch(Exception ex)
             {
-                MessageBox.Show("(╯‵□′)╯︵┻━┻\n\n写入日志操作时出错。\n\n" + ex.Message.ToString());
+                MessageBox.Show("(╯‵□′)╯︵┻━┻\n\n写入日志操作出错。\n\n" + ex.Message.ToString());
                 return false;
             }
         }
